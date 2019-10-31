@@ -1,5 +1,12 @@
 # escorting_project
 
+A system designated for corporates that want to ease on the tight schedule of their employees.
+The system enables the employee to schedule an appointment with a visitor and allocates a robot that will greet him personally and escort him to his meeting.
+The system holds a detailed log for the administrator, with live status and actions of the robot fleet, and manages the scheduling in a smart way that considers the designated robot status.
+
+Implemented in ROS - robot operating system platform, pddl logic language, HTML & Python.
+
+
 How to run our project?
 
 _get the files:
